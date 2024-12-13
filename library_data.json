@@ -1,0 +1,15 @@
+{
+    "all_books": [
+        {
+            "title": "book no.2",
+            "author": "jahed",
+            "year": 2023,
+            "price": 300,
+            "quantity": 3,
+            "isbn": 9758,
+            "book_added_at": "13-12-2024 19:16",
+            "bookLast_update": ""
+        }
+    ],
+    "lend_info": []
+}
